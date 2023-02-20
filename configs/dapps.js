@@ -402,6 +402,17 @@ export const categoriesData = [
           url: './assets/images/dapps/dapp_dm3.png',
         },
       },
+      {
+        id: 3,
+        name: 'Lenster',
+        description:
+          'Lenster is a decentralized, and permissionless social media app built with Lens Protocol.',
+        favorite: false,
+        link: 'https://lenster.xyz/',
+        icon: {
+          url: './assets/images/dapps/dapp_Lenster.png',
+        },
+      },
     ],
   },
   {
